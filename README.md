@@ -4,7 +4,7 @@ That is just a heads up.
 INSTALLTION:
 
 - First open your minesweeper client then Click Edit or Extras and find a custom skins tab
-- After select the goof.bmp or goof2.bmp
+- After select the goof.bmp, goof2.bmp or goof3.bmp
 - That's it!
 
 Notes:
